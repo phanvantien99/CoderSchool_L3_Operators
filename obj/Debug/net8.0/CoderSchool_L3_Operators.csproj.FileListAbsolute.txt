@@ -1,0 +1,14 @@
+D:\Stuff\C#\CoderSchool_L3_Operators\bin\Debug\net8.0\CoderSchool_L3_Operators.exe
+D:\Stuff\C#\CoderSchool_L3_Operators\bin\Debug\net8.0\CoderSchool_L3_Operators.deps.json
+D:\Stuff\C#\CoderSchool_L3_Operators\bin\Debug\net8.0\CoderSchool_L3_Operators.runtimeconfig.json
+D:\Stuff\C#\CoderSchool_L3_Operators\bin\Debug\net8.0\CoderSchool_L3_Operators.dll
+D:\Stuff\C#\CoderSchool_L3_Operators\bin\Debug\net8.0\CoderSchool_L3_Operators.pdb
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.AssemblyInfoInputs.cache
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.AssemblyInfo.cs
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.csproj.CoreCompileInputs.cache
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.dll
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\refint\CoderSchool_L3_Operators.dll
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.pdb
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\CoderSchool_L3_Operators.genruntimeconfig.cache
+D:\Stuff\C#\CoderSchool_L3_Operators\obj\Debug\net8.0\ref\CoderSchool_L3_Operators.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CoderSchool_L3_Operators/1.0.0": {
+        "runtime": {
+          "CoderSchool_L3_Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoderSchool_L3_Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
